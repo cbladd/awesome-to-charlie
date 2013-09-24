@@ -13,7 +13,7 @@ extension replaces only the phrase described above. Thank you for your concern.
 Screenshot Gallery
 ------------------
 
-http://www.flickr.com/groups/cloud-to-butt/
+
 
 Installation
 ------------
@@ -23,15 +23,15 @@ In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that 
 Safari Version
 --------------
 
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
+Can be found here: 
 
 Firefox Version
 ---------------
 
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-mozilla
+Can be found here: 
 
 
 Opera Version
 ---------------
 
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-opera
+Can be found here: 
