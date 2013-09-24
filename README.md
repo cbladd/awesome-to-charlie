@@ -1,7 +1,7 @@
 awesome-to-charlie
 =============
 
-Chrome extension that replaces occurrences of 'awesome' with 'charlie'
+Chrome extension that replaces occurrences of 'awesome' with 'charlie', this is a fork of panicsteve/cloud-to-butt
 
 [Direct download of crx file](https://github.com/cbladd/awesome-to-charlie/blob/master/AwesomeToCharlie.crx?raw=true)
 
