@@ -1,4 +1,4 @@
-cloud-to-butt
+awesome-to-charlie
 =============
 
 Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
